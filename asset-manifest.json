@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Online-Food-Service/static/css/main.120b81ec.css",
+    "main.js": "/Online-Food-Service/static/js/main.fa0bf503.js",
+    "static/media/meals1.jpg": "/Online-Food-Service/static/media/meals1.6d15071176976c7f45d9.jpg",
+    "index.html": "/Online-Food-Service/index.html",
+    "main.120b81ec.css.map": "/Online-Food-Service/static/css/main.120b81ec.css.map",
+    "main.fa0bf503.js.map": "/Online-Food-Service/static/js/main.fa0bf503.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.120b81ec.css",
+    "static/js/main.fa0bf503.js"
+  ]
+}
